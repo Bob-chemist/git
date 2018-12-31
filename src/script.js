@@ -4,3 +4,6 @@ function helloGit() {
 function byeGit() {
 	alert('bye, bye!!!')
 }
+function goGo() {
+	alert('go! go!');
+}
